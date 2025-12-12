@@ -1,0 +1,17 @@
+[
+    {
+        "url": "https://download.kiwix.org/zim/wikipedia/wikipedia_en_all_maxi_2024-10.zim",
+        "project": "wikipedia",
+        "lang": "en"
+    },
+    {
+        "url": "https://download.kiwix.org/zim/wikipedia/wikipedia_simple_all_maxi_2024-10.zim",
+        "project": "wikipedia",
+        "lang": "simple"
+    },
+    {
+        "url": "https://download.kiwix.org/zim/wiktionary/wiktionary_en_all_2024-10.zim",
+        "project": "wiktionary",
+        "lang": "en"
+    }
+]
